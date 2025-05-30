@@ -4,6 +4,7 @@ NLP Insights from Gamer Reviews
 
 ¡Bienvenido/a a **GameSpeak**, un proyecto de ciencia de datos centrado en el análisis de reseñas de videojuegos desde la perspectiva del Procesamiento de Lenguaje Natural (NLP)! 🧠✨
 
+https://colab.research.google.com/drive/1ALez6jG6IOKJn_kwRV8p0h48LeyKDV6X#scrollTo=Imp-P-duyjCz
 ---
 
 ## 📌 Objetivo
