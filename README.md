@@ -33,8 +33,6 @@ Aplicar técnicas de NLP sobre un corpus de reseñas de videojuegos (Steam Revie
 
 Utilizamos una porción del dataset de **Steam Game Reviews**, disponible en Kaggle:
 
-📎 [Steam Game Review Dataset - Kaggle](https://www.kaggle.com/datasets/...)
-
 ---
 
 ## 📊 Estructura del Proyecto
@@ -59,7 +57,8 @@ Utilizamos una porción del dataset de **Steam Game Reviews**, disponible en Kag
 
 Este proyecto permite observar cómo las emociones y valoraciones de los usuarios se reflejan directamente en el texto. Aplicar NLP a este tipo de contenido puede ser crucial para entender mejor a las comunidades digitales.
 
----
+## ¿Por qué es importante este análisis?
+Comprender las opiniones de los jugadores permite a los desarrolladores de videojuegos mejorar sus productos, enfocándose en lo que realmente importa a su audiencia. Además, este tipo de análisis puede ayudar a los futuros jugadores a tomar decisiones informadas sobre qué juegos comprar o jugar.
 
 ## 👩‍💻 Autor
 
